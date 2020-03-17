@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Development\\GitHub\\ExploringIdentityServer\\src\\Api\\Api.csproj": {}
+    "E:\\Development\\GitHub\\ExploringIdentityServer\\src\\Client\\Client.csproj": {}
   },
   "projects": {
-    "E:\\Development\\GitHub\\ExploringIdentityServer\\src\\Api\\Api.csproj": {
+    "E:\\Development\\GitHub\\ExploringIdentityServer\\src\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Development\\GitHub\\ExploringIdentityServer\\src\\Api\\Api.csproj",
-        "projectName": "Api",
-        "projectPath": "E:\\Development\\GitHub\\ExploringIdentityServer\\src\\Api\\Api.csproj",
+        "projectUniqueName": "E:\\Development\\GitHub\\ExploringIdentityServer\\src\\Client\\Client.csproj",
+        "projectName": "Client",
+        "projectPath": "E:\\Development\\GitHub\\ExploringIdentityServer\\src\\Client\\Client.csproj",
         "packagesPath": "C:\\Users\\Salvatore\\.nuget\\packages\\",
-        "outputPath": "E:\\Development\\GitHub\\ExploringIdentityServer\\src\\Api\\obj\\",
+        "outputPath": "E:\\Development\\GitHub\\ExploringIdentityServer\\src\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -43,9 +43,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+            "IdentityModel": {
               "target": "Package",
-              "version": "[3.1.2, )"
+              "version": "[4.1.1, )"
             }
           },
           "imports": [
@@ -59,9 +59,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
