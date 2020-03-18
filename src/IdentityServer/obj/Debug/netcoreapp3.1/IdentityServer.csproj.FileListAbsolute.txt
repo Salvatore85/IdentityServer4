@@ -37,3 +37,5 @@ E:\Development\GitHub\ExploringIdentityServer\src\IdentityServer\obj\Debug\netco
 E:\Development\GitHub\ExploringIdentityServer\src\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.csproj.CopyComplete
 E:\Development\GitHub\ExploringIdentityServer\src\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.dll
 E:\Development\GitHub\ExploringIdentityServer\src\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.pdb
+E:\Development\GitHub\ExploringIdentityServer\src\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.RazorAssemblyInfo.cache
+E:\Development\GitHub\ExploringIdentityServer\src\IdentityServer\obj\Debug\netcoreapp3.1\IdentityServer.RazorAssemblyInfo.cs
